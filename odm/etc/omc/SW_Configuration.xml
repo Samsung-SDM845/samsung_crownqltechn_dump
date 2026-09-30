@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-N9600</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OWO</MultiCode>
+    <CustomerDataSet>
+        <CSCName>N9600OWO</CSCName>
+        <CSCVersion>9FVF3</CSCVersion>
+        <NbCustomer>12</NbCustomer>
+        <CustomerData src="/Customer/CHO/customer.xml" />
+        <CustomerData src="/Customer/COO/customer.xml" />
+        <CustomerData src="/Customer/TPA/customer.xml" />
+        <CustomerData src="/Customer/ZTO/customer.xml" />
+        <CustomerData src="/Customer/UYO/customer.xml" />
+        <CustomerData src="/Customer/UPO/customer.xml" />
+        <CustomerData src="/Customer/BVO/customer.xml" />
+        <CustomerData src="/Customer/PEO/customer.xml" />
+        <CustomerData src="/Customer/EON/customer.xml" />
+        <CustomerData src="/Customer/MXO/customer.xml" />
+        <CustomerData src="/Customer/DOO/customer.xml" />
+        <CustomerData src="/Customer/GTO/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>BVO</CustomerCode>
+            <Version>SAOMC_SM-N9600_OWO_BVO_QQ_0019</Version>
+            <CustomerEdition>ED0012</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CHO</CustomerCode>
+            <Version>SAOMC_SM-N9600_OWO_CHO_QQ_0026</Version>
+            <CustomerEdition>ED0020</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>COO</CustomerCode>
+            <Version>SAOMC_SM-N9600_OWO_COO_QQ_0026</Version>
+            <CustomerEdition>ED0019</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>DOO</CustomerCode>
+            <Version>SAOMC_SM-N9600_OWO_DOO_QQ_0028</Version>
+            <CustomerEdition>ED0018</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>EON</CustomerCode>
+            <Version>SAOMC_SM-N9600_OWO_EON_QQ_0033</Version>
+            <CustomerEdition>ED0028</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>GTO</CustomerCode>
+            <Version>SAOMC_SM-N9600_OWO_GTO_QQ_0042</Version>
+            <CustomerEdition>ED0031</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>MXO</CustomerCode>
+            <Version>SAOMC_SM-N9600_OWO_MXO_QQ_0046</Version>
+            <CustomerEdition>ED0038</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>PEO</CustomerCode>
+            <Version>SAOMC_SM-N9600_OWO_PEO_QQ_0029</Version>
+            <CustomerEdition>ED0021</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>TPA</CustomerCode>
+            <Version>SAOMC_SM-N9600_OWO_TPA_QQ_0038</Version>
+            <CustomerEdition>ED0036</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>UPO</CustomerCode>
+            <Version>SAOMC_SM-N9600_OWO_UPO_QQ_0032</Version>
+            <CustomerEdition>ED0025</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>UYO</CustomerCode>
+            <Version>SAOMC_SM-N9600_OWO_UYO_QQ_0031</Version>
+            <CustomerEdition>ED0019</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>ZTO</CustomerCode>
+            <Version>SAOMC_SM-N9600_OWO_ZTO_QQ_0041</Version>
+            <CustomerEdition>ED0020</CustomerEdition>
+            <Packages>
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
