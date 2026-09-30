@@ -1,0 +1,7 @@
+# Miscellaneous
+ro.omc.build.id=52871226
+ro.omc.build.version=N9600OWO9FVF3
+ro.omc.changetype=DATA_RESET_ON,TRUE
+ro.omc.disabler=FALSE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+
