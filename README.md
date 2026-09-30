@@ -1,0 +1,20 @@
+## crownqltezh-user 10 QP1A.190711.020 N9600ZHU9FVH2 release-keys
+- Manufacturer: samsung
+- Platform: sdm845
+- Codename: crownqltechn
+- Brand: samsung
+- Flavor: crownqltezh-user
+- Release Version: 10
+- Kernel Version: 4.9.186
+- Id: QP1A.190711.020
+- Incremental: N9600ZHU9FVH2
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: 420
+- Fingerprint: samsung/crownqltezh/crownqltechn:10/QP1A.190711.020/N9600ZHU9FVH2:user/release-keys
+- OTA version: 
+- Branch: crownqltezh-user-10-QP1A.190711.020-N9600ZHU9FVH2-release-keys
+- Repo: samsung_crownqltechn_dump
